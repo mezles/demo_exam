@@ -1,0 +1,1 @@
+<?php$EXCLUDE_CONTROLLER =  array('login', 'logout');?>
